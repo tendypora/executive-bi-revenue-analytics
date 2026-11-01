@@ -1,0 +1,65 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Length 2368 >>
+stream
+BT /F2 15 Tf 56 786.0 Td (Executive BI & Revenue Analytics - Relatorio de Performance Comercial e) Tj ET
+BT /F2 15 Tf 56 765.3 Td (DRE) Tj ET
+BT /F2 11.5 Tf 56 744.6 Td (Modelagem Star Schema \(SQL + Python\) | Indicadores de Receita, LTV/CAC,) Tj ET
+BT /F2 11.5 Tf 56 728.7 Td (Churn e Margem) Tj ET
+BT /F1 10 Tf 56 712.9 Td () Tj ET
+BT /F2 11.5 Tf 56 699.1 Td (1. DESTAQUES EXECUTIVOS ACUMULADOS \(2025-2026\)) Tj ET
+BT /F1 10 Tf 56 683.2 Td (Receita Liquida Acumulada: R$ 34.24 milhoes | Margem de Contribuicao: R$ 27.09 milhoes.) Tj ET
+BT /F1 10 Tf 56 669.4 Td (Base Total Modelada: 320 Clientes B2B | 243 Clientes Ativos em Outubro/2026.) Tj ET
+BT /F1 10 Tf 56 655.6 Td () Tj ET
+BT /F2 11.5 Tf 56 641.8 Td (2. UNIT ECONOMICS POR SEGMENTO \(LTV, CAC E CHURN\)) Tj ET
+BT /F1 10 Tf 56 625.9 Td (Segmento Enterprise | Clientes:  79 | CAC Medio: R$ 4603.61 | LTV Medio: R$ 182951.47 |) Tj ET
+BT /F1 10 Tf 56 612.1 Td (LTV/CAC: 39.7x | Churn:  5.1%) Tj ET
+BT /F1 10 Tf 56 598.3 Td (Segmento Mid-Market | Clientes: 118 | CAC Medio: R$ 4652.48 | LTV Medio: R$  82414.74 |) Tj ET
+BT /F1 10 Tf 56 584.5 Td (LTV/CAC: 17.7x | Churn: 24.6%) Tj ET
+BT /F1 10 Tf 56 570.7 Td (Segmento SMB        | Clientes: 123 | CAC Medio: R$ 4750.70 | LTV Medio: R$  23698.06 |) Tj ET
+BT /F1 10 Tf 56 556.9 Td (LTV/CAC:  5.0x | Churn: 38.2%) Tj ET
+BT /F1 10 Tf 56 543.1 Td () Tj ET
+BT /F2 11.5 Tf 56 529.3 Td (3. PERFORMANCE POR LINHA DE PRODUTO \(TOP 5\)) Tj ET
+BT /F1 10 Tf 56 513.5 Td (PRD-03 - Agente Inteligente IA & Copilot \(Inteligência Artificial\) | Receita Liquida: R$) Tj ET
+BT /F1 10 Tf 56 499.7 Td (10.48 mi | Margem: R$ 7.86 mi) Tj ET
+BT /F1 10 Tf 56 485.9 Td (PRD-05 - Pacote Governança & Cloud FinOps \(Cloud & FinOps\) | Receita Liquida: R$ 8.24 mi |) Tj ET
+BT /F1 10 Tf 56 472.1 Td (Margem: R$ 6.60 mi) Tj ET
+BT /F1 10 Tf 56 458.3 Td (PRD-01 - Plataforma Data Analytics Pro \(SaaS Analytics\) | Receita Liquida: R$ 7.93 mi |) Tj ET
+BT /F1 10 Tf 56 444.5 Td (Margem: R$ 6.51 mi) Tj ET
+BT /F1 10 Tf 56 430.7 Td (PRD-02 - Motor de Automação RPA Cloud \(Automação & RPA\) | Receita Liquida: R$ 4.45 mi |) Tj ET
+BT /F1 10 Tf 56 416.9 Td (Margem: R$ 3.47 mi) Tj ET
+BT /F1 10 Tf 56 403.1 Td (PRD-04 - Conector Enterprise ERP/CRM \(Integração & Dados\) | Receita Liquida: R$ 3.13 mi |) Tj ET
+BT /F1 10 Tf 56 389.3 Td (Margem: R$ 2.66 mi) Tj ET
+BT /F1 8 Tf 499 30 Td (pág. 1/1) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000000271 00000 n 
+0000002691 00000 n 
+0000002827 00000 n 
+trailer
+<< /Size 7 /Root 6 0 R >>
+startxref
+2876
+%%EOF

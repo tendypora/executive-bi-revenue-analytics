@@ -1,0 +1,6 @@
+id_produto,nome_produto,categoria,preco_mensal_lista,margem_bruta_padrao
+PRD-01,Plataforma Data Analytics Pro,SaaS Analytics,4200.0,0.82
+PRD-02,Motor de Automação RPA Cloud,Automação & RPA,3100.0,0.78
+PRD-03,Agente Inteligente IA & Copilot,Inteligência Artificial,5800.0,0.75
+PRD-04,Conector Enterprise ERP/CRM,Integração & Dados,1900.0,0.85
+PRD-05,Pacote Governança & Cloud FinOps,Cloud & FinOps,3600.0,0.8
